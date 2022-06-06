@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(225deg, #d74222  20%, #4a5555 70%);
+}
+
+.row p{
+    font-size: 500%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 2%;
+}
+.col img{
+    width: 170px;
+
+}
